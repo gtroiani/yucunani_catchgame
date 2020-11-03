@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"031d31f7-d0ba-460a-8078-c4f229be4c22","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_corncob",

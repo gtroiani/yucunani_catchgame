@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b5ac00e3-8b7a-4643-ba0a-d093c93f03dc","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_tortillas",

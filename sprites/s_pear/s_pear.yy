@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ca2925b5-c3a8-457d-8d80-b36df0020459","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_pear",

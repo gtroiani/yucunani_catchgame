@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c9c189f7-0e1f-4ed2-aea9-d5543c1e70b6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_yam",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"faa529d1-cfea-47d8-a116-b50fc5f6fa09","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_fries",
