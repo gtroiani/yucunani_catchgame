@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"s_pear","path":"sprites/s_pear/s_pear.yy",},"order":6,},
     {"id":{"name":"s_energy_bar","path":"sprites/s_energy_bar/s_energy_bar.yy",},"order":16,},
+    {"id":{"name":"draw_pie","path":"scripts/draw_pie/draw_pie.yy",},"order":1,},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},"order":1,},
     {"id":{"name":"s_fries","path":"sprites/s_fries/s_fries.yy",},"order":5,},
     {"id":{"name":"s_bean","path":"sprites/s_bean/s_bean.yy",},"order":1,},
@@ -15,7 +16,9 @@
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"order":1,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"o_produce","path":"objects/o_produce/o_produce.yy",},"order":17,},
+    {"id":{"name":"pie_surface_sprite","path":"scripts/pie_surface_sprite/pie_surface_sprite.yy",},"order":0,},
     {"id":{"name":"s_corncob","path":"sprites/s_corncob/s_corncob.yy",},"order":4,},
+    {"id":{"name":"s_scudo","path":"sprites/s_scudo/s_scudo.yy",},"order":19,},
     {"id":{"name":"s_tomato","path":"sprites/s_tomato/s_tomato.yy",},"order":7,},
     {"id":{"name":"s_tortillas","path":"sprites/s_tortillas/s_tortillas.yy",},"order":8,},
     {"id":{"name":"o_word","path":"objects/o_word/o_word.yy",},"order":5,},
