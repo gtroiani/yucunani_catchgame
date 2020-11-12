@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 31,
-  "bbox_top": 0,
-  "bbox_bottom": 31,
+  "bbox_left": 10,
+  "bbox_right": 21,
+  "bbox_top": 1,
+  "bbox_bottom": 30,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d7a12a79-ef73-4ec2-b668-ae2b7c9573e5","path":"sprites/s_wall/s_wall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7a12a79-ef73-4ec2-b668-ae2b7c9573e5","path":"sprites/s_wall/s_wall.yy",},"LayerId":{"name":"f06a2621-00d2-4ff5-a3ee-51fed9a85e01","path":"sprites/s_wall/s_wall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"resourceVersion":"1.0","name":"d7a12a79-ef73-4ec2-b668-ae2b7c9573e5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"24c3d1ef-ac3b-4d68-bf15-7502b80a3885","path":"sprites/s_soda/s_soda.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"24c3d1ef-ac3b-4d68-bf15-7502b80a3885","path":"sprites/s_soda/s_soda.yy",},"LayerId":{"name":"2d28bfde-8a5c-4893-91fd-3f1acb6e9157","path":"sprites/s_soda/s_soda.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_soda","path":"sprites/s_soda/s_soda.yy",},"resourceVersion":"1.0","name":"24c3d1ef-ac3b-4d68-bf15-7502b80a3885","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},
+    "spriteId": {"name":"s_soda","path":"sprites/s_soda/s_soda.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"913ca677-8ab3-4988-a5d6-9ffda6797f42","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7a12a79-ef73-4ec2-b668-ae2b7c9573e5","path":"sprites/s_wall/s_wall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"58de250b-362e-4c27-9b22-a9c47a22071f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"24c3d1ef-ac3b-4d68-bf15-7502b80a3885","path":"sprites/s_soda/s_soda.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},
+    "parent": {"name":"s_soda","path":"sprites/s_soda/s_soda.yy",},
     "resourceVersion": "1.3",
-    "name": "s_wall",
+    "name": "s_soda",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f06a2621-00d2-4ff5-a3ee-51fed9a85e01","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2d28bfde-8a5c-4893-91fd-3f1acb6e9157","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Embellishments",
-    "path": "folders/Sprites/Embellishments.yy",
+    "name": "Food sprites",
+    "path": "folders/Sprites/Food sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "s_wall",
+  "name": "s_soda",
   "tags": [],
   "resourceType": "GMSprite",
 }
