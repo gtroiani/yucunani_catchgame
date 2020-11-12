@@ -1,4 +1,6 @@
-// initialize player sprite
+/// @description initialize player sprite
+///	Author: Giorgia Troiani
+///	Last updated: 12 - 11 - 2020
 
 hsp = 0;		// horizontal speed
 vsp = 0;		// vertical speed
@@ -8,7 +10,5 @@ walksp = 4;		// walking speed
 energy = 0;
 energy_max = 100;
 
-energybar_width = 90;
-energybar_height = 32;
 energybar_x = 1154;
 energybar_y = 64;

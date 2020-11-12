@@ -1,0 +1,19 @@
+{
+"locale_code" : "en",
+"game_title" : "Sà'án Sávi catch game",
+"menu_new-game" : "New Game",
+"menu_continue" : "Continue",
+"menu_quit" : "Quit",
+"food_bean" : "bean",
+"food_apple" : "apple",
+"food_caldo" : "soup",
+"food_chili" : "chili pepper",
+"food_corncob" : "corncob",
+"food_pear" : "pear",
+"food_tomato" : "tomato",
+"food_tortillas" : "tortillas",
+"junk_fries" : "fries",
+"junk_soda" : "soda",
+"food_yam" : "yam",
+"food_default" : "fruit"
+}

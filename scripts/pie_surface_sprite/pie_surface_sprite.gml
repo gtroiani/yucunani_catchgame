@@ -1,3 +1,6 @@
+///	Author: Giorgia Troiani and Angelo Lucia
+///	Last updated: 12 - 11 - 2020
+
 // returns a surface with a circular sector of a sprite
 // it works best with square sprites
 // value/value_max = fraction to be shown

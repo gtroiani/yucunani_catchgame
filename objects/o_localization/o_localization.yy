@@ -4,10 +4,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": true,
-  "parentObjectId": {
-    "name": "o_food",
-    "path": "objects/o_food/o_food.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,16 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_junk_food","path":"objects/o_junk_food/o_junk_food.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_localization","path":"objects/o_localization/o_localization.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":76,"eventType":10,"collisionObjectId":null,"parent":{"name":"o_localization","path":"objects/o_localization/o_localization.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Food",
-    "path": "folders/Objects/Food.yy",
+    "name": "UI",
+    "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_junk_food",
+  "name": "o_localization",
   "tags": [],
   "resourceType": "GMObject",
 }

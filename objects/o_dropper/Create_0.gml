@@ -1,5 +1,6 @@
 /// @description Set initial alarms
-// You can write your code in this editor
+///	Author: Giorgia Troiani
+///	Last updated: 12 - 11 - 2020
 
 // produce
 alarm[0] = 50

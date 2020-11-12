@@ -1,3 +1,7 @@
+/// @description creates pie-shaped energy bar
+///	Author: Giorgia Troiani and Angelo Lucia
+///	Last updated: 12 - 11 - 2020
+
 // draws circular sector from angle a to angle b
 // assumes 0 <= a < b <= 360
 function draw_pie(x ,y , radius, a, b){ 

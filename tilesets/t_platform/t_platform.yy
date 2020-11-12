@@ -1,5 +1,4 @@
 {
-  "name": "TileSet1",
   "spriteId": {
     "name": "s_platform",
     "path": "sprites/s_platform/s_platform.yy",
@@ -92,10 +91,11 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Mixtec_catch_game",
-    "path": "Mixtec_catch_game.yyp",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "t_platform",
   "tags": [],
   "resourceType": "GMTileSet",
 }

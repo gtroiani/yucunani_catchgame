@@ -1,0 +1,19 @@
+{
+"locale_code" : "sp",
+"game_title" : "Atrapa la fruta en Sà'án Sávi",
+"menu_new-game" : "Empiezar nuevo",
+"menu_continue" : "Continuar",
+"menu_quit" : "Acabar",
+"food_bean" : "frijol",
+"food_apple" : "manzana",
+"food_caldo" : "caldo",
+"food_chili" : "chili",
+"food_corncob" : "elote",
+"food_pear" : "pera",
+"food_tomato" : "tomato",
+"food_tortillas" : "tortillas",
+"junk_fries" : "papas fritas",
+"junk_soda" : "soda",
+"food_yam" : "yam",
+"food_default" : "fruta"
+}
