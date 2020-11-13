@@ -7,4 +7,4 @@
 speed = 3;
 direction = 90;
 
-text = "Mixtec catch game";
+text = "Go!";

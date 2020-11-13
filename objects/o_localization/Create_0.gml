@@ -11,7 +11,7 @@ global.lang_idx			= 0;
 global.locale_map		= ds_map_create(); // GMS version of JSON dictionary
 global.locale_words		= 0;
 
-var default_locale_code	= "en"; // could be set to Spanish or Sa'an Savi if we prefer
+var default_locale_code	= "mx"; // could be set to Spanish or Sa'an Savi if we prefer
 var default_locale_idx	= 0;
 
 
