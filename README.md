@@ -1,5 +1,5 @@
 # Sà'án Sàvǐ catch game
-A game that teaches children the names of food items in Sà'án Sávǐ (Yucunani Mixtec).
+A videogame that teaches children the names of food items in Sà'án Sávǐ (Yucunani Mixtec).
 
 Sà'án Sávǐ is spoken in the Yucunani village, in Oaxaca (Mexico). 
 This game was created as a pedagogical resource for children. The original concept was developed
