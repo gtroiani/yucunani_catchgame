@@ -28,5 +28,20 @@ switch (sprite_index)
 		case s_yam		: food_name.text =	localize("food_yam");		break;
 		default			: food_name.text =	localize("food_default");
 	}
+	
+switch (sprite_index)
+	{
+		case s_bean		: audio_play_sound(snd_bean, 0, 0);		break;
+		case s_chili	: audio_play_sound(snd_chile, 0, 0);	break;
+		case s_corncob	: audio_play_sound(snd_elote, 0, 0);	break;
+		case s_egg		: audio_play_sound(snd_huevo, 0, 0);	break;
+		case s_maize	: audio_play_sound(snd_grano, 0, 0);	break;
+		case s_meat		: audio_play_sound(snd_meat, 0, 0);		break;
+		case s_mushroom	: audio_play_sound(snd_seta, 0, 0);		break;
+		case s_potato	: audio_play_sound(snd_papa, 0, 0);		break;
+		case s_pumpkin	: audio_play_sound(snd_pumpkin, 0, 0);	break;
+		case s_tomato	: audio_play_sound(snd_tomate, 0, 0);	break;
+		case s_tortillas: audio_play_sound(snd_tortilla, 0, 0);	break;
+	}
 
 instance_destroy();
