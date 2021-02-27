@@ -4,7 +4,6 @@ food_name = instance_create_layer(x, y, "food", o_word);
 
 switch (sprite_index)
 	{
-		case s_apple	: food_name.text =	localize("food_apple");		break;
 		case s_bean		: food_name.text =	localize("food_bean");		break;
 		case s_chicken	: food_name.text =	localize("food_chicken");	break;
 		case s_caldo	: food_name.text =	localize("food_caldo");		break;

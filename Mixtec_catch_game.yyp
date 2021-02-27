@@ -18,7 +18,6 @@
     {"id":{"name":"snd_bean","path":"sounds/snd_bean/snd_bean.yy",},"order":0,},
     {"id":{"name":"snd_huevo","path":"sounds/snd_huevo/snd_huevo.yy",},"order":5,},
     {"id":{"name":"s_chili","path":"sprites/s_chili/s_chili.yy",},"order":3,},
-    {"id":{"name":"s_apple","path":"sprites/s_apple/s_apple.yy",},"order":0,},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":1,},
     {"id":{"name":"s_soda","path":"sprites/s_soda/s_soda.yy",},"order":10,},
     {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},"order":2,},
@@ -77,10 +76,10 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},
-    {"name":"rm_title_menu","path":"rooms/rm_title_menu/rm_title_menu.yy",},
-    {"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"roomId":{"name":"rm_title_menu","path":"rooms/rm_title_menu/rm_title_menu.yy",},},
+    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -105,10 +104,10 @@
     {"folderPath":"folders/Sprites/Player.yy","order":2,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
-    {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"Xisfani.ttf","resourceType":"GMIncludedFile",},
@@ -117,9 +116,9 @@
     {"CopyToMask":153157610357391598,"filePath":"datafiles","resourceVersion":"1.0","name":"locale_mx.json","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.542",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "Mixtec_catch_game",
   "tags": [],
   "resourceType": "GMProject",

@@ -7,4 +7,4 @@
 speed = 3;
 direction = 90;
 
-text = "Go!";
+text = localize("start_msg");
