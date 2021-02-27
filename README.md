@@ -12,3 +12,7 @@ Game design by Giorgia Troiani (PhD student in Linguistics).
 This work is being released under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 You are welcome to share and adapt the material as long as you attribute appropriate credit, do not use the
 material for commercial use, and distributed your remixed work under the same license as the original.
+
+
+At the moment we did not release any version of the game, but if you are interested in the project, you are welcome
+to contact Giorgia and Jeremias at gtroiani@ucsb.edu
