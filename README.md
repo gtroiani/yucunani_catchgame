@@ -6,7 +6,7 @@ This game was created as a pedagogical resource for children. The original conce
 in Scratch as part of an assignment for LING 221 - Field Methods at the University of California, Santa Barbara.
 
 Language items have been collected by Jeremías Salazar (language advocate and educator).
-Game design by Giorgia Troiani (PhD student in Linguistics).
+Game design by [Giorgia Troiani](https://www.linguistics.ucsb.edu/people/giorgia-troiani) (PhD student in Linguistics).
 
 
 This work is being released under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
