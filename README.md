@@ -18,8 +18,9 @@ At the moment we did not release any version of the game, but if you are interes
 to contact Giorgia and Jeremías at gtroiani@ucsb.edu
 
 ## Acknowledgments
-- Funding for the documentation of Sà'án Sàvǐ was provided by an NSF grant [https://nsf.gov/awardsearch/showAward?AWD_ID=1660355&HistoricalAwards=false]
-- University of California, Santa Barbara [https://www.ucsb.edu/] provided initial training for the development of the project
-- Professor Eric W. Campbell [https://www.linguistics.ucsb.edu/people/eric-w-campbell] provided training on language documentation, community-based research, and creation of pedagogical material for language learners
-- Professor John W. Du Bois [https://www.linguistics.ucsb.edu/people/john-w-du-bois] provided initial training on Game Maker Language
+- Funding for the documentation of Sà'án Sàvǐ was provided by the [National Science Foundation] (https://nsf.gov/awardsearch/showAward?AWD_ID=1660355&HistoricalAwards=false)
+- [University of California, Santa Barbara] (https://www.ucsb.edu/) provided initial training for the development of the project
+- [Professor Eric W. Campbell] (https://www.linguistics.ucsb.edu/people/eric-w-campbell) provided training on language documentation, community-based research, and creation of pedagogical material for language learners
+- [Professor John W. Du Bois] (https://www.linguistics.ucsb.edu/people/john-w-du-bois) provided initial training on Game Maker Language
 - This game has been improved by the feedback and expertise of Terry Du Bois and Brady Moore
+- Language data has been collaboratively collected by the participants to the 2019-2020 cycle of LING 221 - Field Methods. Special thanks are extended to [Guillem Belmar] (https://www.linguistics.ucsb.edu/people/guillem-belmar) and [Alonso Vásquez] (https://www.linguistics.ucsb.edu/people/alonso-v%C3%A1squez) for their help with revising tones in Sà'án Sàvǐ and translations into Spanish. 
