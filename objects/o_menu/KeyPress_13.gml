@@ -4,7 +4,7 @@
 switch (menu_index) {
 	
 	case 0:
-		room_goto(rm_level1);
+		room_goto(rm_story_cut);
 		break;
 		
 	case 2:
