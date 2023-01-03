@@ -20,6 +20,7 @@
     {"id":{"name":"snd_bean","path":"sounds/snd_bean/snd_bean.yy",},"order":0,},
     {"id":{"name":"snd_huevo","path":"sounds/snd_huevo/snd_huevo.yy",},"order":5,},
     {"id":{"name":"s_chili","path":"sprites/s_chili/s_chili.yy",},"order":3,},
+    {"id":{"name":"o_customize","path":"objects/o_customize/o_customize.yy",},"order":4,},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":1,},
     {"id":{"name":"s_soda","path":"sprites/s_soda/s_soda.yy",},"order":10,},
     {"id":{"name":"o_story","path":"objects/o_story/o_story.yy",},"order":3,},
@@ -52,6 +53,7 @@
     {"id":{"name":"next_lang","path":"scripts/next_lang/next_lang.yy",},"order":3,},
     {"id":{"name":"rm_title_menu","path":"rooms/rm_title_menu/rm_title_menu.yy",},"order":1,},
     {"id":{"name":"t_platform","path":"tilesets/t_platform/t_platform.yy",},"order":0,},
+    {"id":{"name":"rm_customize","path":"rooms/rm_customize/rm_customize.yy",},"order":4,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":2,},
     {"id":{"name":"s_tortillas","path":"sprites/s_tortillas/s_tortillas.yy",},"order":8,},
     {"id":{"name":"snd_grano","path":"sounds/snd_grano/snd_grano.yy",},"order":4,},
@@ -88,6 +90,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"rm_title_menu","path":"rooms/rm_title_menu/rm_title_menu.yy",},},
+    {"roomId":{"name":"rm_customize","path":"rooms/rm_customize/rm_customize.yy",},},
     {"roomId":{"name":"rm_story_cut","path":"rooms/rm_story_cut/rm_story_cut.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
   ],
@@ -123,6 +126,7 @@
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_es.json","CopyToMask":-1,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_en.json","CopyToMask":153157610357391598,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_mx.json","CopyToMask":153157610357391598,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_pu.json","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "MetaData": {
     "IDEVersion": "2022.9.1.51",

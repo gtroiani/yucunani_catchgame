@@ -19,6 +19,6 @@ draw_set_halign(fa_center);
 draw_text(x, 50, localize("game_title"));
 
 
-draw_set_color(c_white);
-draw_set_halign(fa_center);
-draw_text(x, 150, "Jeremias Salazar & Giorgia Troiani");
+//draw_set_color(c_white);
+//draw_set_halign(fa_center);
+//draw_text(x, 150, "Jeremias Salazar & Giorgia Troiani");
