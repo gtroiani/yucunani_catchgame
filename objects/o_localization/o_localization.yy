@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_localization",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": true,
   "parentObjectId": null,
@@ -18,8 +22,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_localization","path":"objects/o_localization/o_localization.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":76,"eventType":10,"collisionObjectId":null,"parent":{"name":"o_localization","path":"objects/o_localization/o_localization.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":76,"eventType":10,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,8 +31,4 @@
     "name": "UI",
     "path": "folders/Objects/UI.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "o_localization",
-  "tags": [],
-  "resourceType": "GMObject",
 }

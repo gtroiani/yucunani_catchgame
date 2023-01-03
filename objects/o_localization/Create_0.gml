@@ -1,4 +1,4 @@
-/// @description Load locale data
+/// Load locale data
 /// Localization will be used to ensure that characters of Sa'an Savi get correctly displayed
 /// In the future we could add other indigenous varieties by populating other JSON dictionaries
 /// Base code has been developed by user Yawning Dad

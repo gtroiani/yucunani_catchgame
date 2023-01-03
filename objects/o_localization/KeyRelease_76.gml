@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// When L key is pressed, cycle to next JSON dictionary
 
 next_lang();
 room_restart();

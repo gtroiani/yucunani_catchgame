@@ -1,5 +1,4 @@
-/// @description produce
-// You can write your code in this editor
+// Set up direction and speed of movement of produce falling
 
 x_position = irandom_range(60, 1350);
 y_position = 40;

@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+// Display text containing the story
 
 draw_set_color(c_white);
 draw_set_halign(fa_center);

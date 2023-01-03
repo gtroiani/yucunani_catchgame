@@ -1,2 +1,2 @@
-/// @description load every persistent object
+/// Load every persistent object (o_localization)
 alarm[0] = 1;

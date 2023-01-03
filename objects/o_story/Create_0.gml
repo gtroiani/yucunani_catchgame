@@ -1,5 +1,3 @@
-/// @description GUI menu bar setup
-///	Author: Giorgia Troiani
-///	Last updated: 12 - 11 - 2020
+/// set frame count to zero
 
 a = 0;
