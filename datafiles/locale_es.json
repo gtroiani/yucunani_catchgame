@@ -4,6 +4,12 @@
 "menu_new-game" : "Empezar",
 "menu_continue" : "Continuar",
 "menu_quit" : "Salir",
+"menu_language" : "Elige la lengua",
+"lg_english" : "English",
+"lg_spanish" : "Español",
+"lg_yucunani" : "Sà'án Sàvǐ ñà Yukúnanǐ",
+"lg_purhepecha" : "P'urhépecha",
+"lg_bquechua" : "Qhishwa",
 "start_msg" : "¡Salta!",
 "food_bean" : "frijol",
 "food_peach" : "durazno",
@@ -26,5 +32,6 @@
 "junk_soda" : "refresco",
 "food_yam" : "camote",
 "food_default" : "fruta",
-"game_story" : "Un día llovió muchísimo, \n dicen que se levantó una tormenta y pasó un viento muy fuerte, \n y se llevó volando muchas cosas. \n Y las cosas empezaron a caer. \n Ahora tu misión es agarrar la comida. \n Si agarras comida buena, ¡obtendrás energía! \n ¡Pero si agarras comida mala te puedes enfermar y morir! "
+"game_story" : "Un día llovió muchísimo, \n dicen que se levantó una tormenta y pasó un viento muy fuerte, \n y se llevó volando muchas cosas. \n Y las cosas empezaron a caer. \n Ahora tu misión es agarrar la comida. \n Si agarras comida buena, ¡obtendrás energía! \n ¡Pero si agarras comida mala te puedes enfermar y morir!",
+"game_end" : "¡Atrapaste toda la comida que necesitabas! ¡Felicidades!"
 }
