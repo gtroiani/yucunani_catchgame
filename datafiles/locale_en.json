@@ -32,5 +32,6 @@
 "junk_soda" : "soda",
 "food_yam" : "sweet potato",
 "food_default" : "fruit",
-"game_story" : "One day it rained a lot. \n A storm came, and a raging wind passed through, \n and many things flew away with it. \n Then the things started to fall. \n Now your mission is to catch the food. \n If you catch good food, you'll get energy. \n But beware, if you catch bad food, you may get sick and die!"
+"game_story" : "One day it rained a lot. \n A storm came, and a raging wind passed through, \n and many things flew away with it. \n Then the things started to fall. \n Now your mission is to catch the food. \n If you catch good food, you'll get energy. \n But beware, if you catch bad food, you may get sick and die!",
+"game_end" : "You caught all the food that you needed! Congratulations!"
 }
