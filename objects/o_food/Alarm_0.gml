@@ -30,7 +30,7 @@ switch (sprite_index)
 	
 switch (sprite_index)
 	{
-		case s_bean		: audio_play_sound(snd_bean, 0, 0);		break;
+		case s_bean		: audio_play_sound(localize_sound("snd_beans"), 0, 0);		break;
 		case s_chili	: audio_play_sound(snd_chile, 0, 0);	break;
 		case s_corncob	: audio_play_sound(snd_elote, 0, 0);	break;
 		case s_egg		: audio_play_sound(snd_huevo, 0, 0);	break;
