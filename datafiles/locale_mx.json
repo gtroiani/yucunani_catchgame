@@ -4,6 +4,12 @@
 "menu_new-game" : "Kusíkí",
 "menu_continue" : "Kitsáá tuku",
 "menu_quit" : "Kuákee",
+"menu_language" : "Elige la lengua",
+"lg_english" : "English",
+"lg_spanish" : "Español",
+"lg_yucunani" : "Sà'án Sàvǐ ñà Yukúnanǐ",
+"lg_purhepecha" : "P'urhépecha",
+"lg_bquechua" : "Qhishwa",
 "start_msg" : "¡Kanta!",
 "food_bean" : "ntuchǐ",
 "food_peach" : "nchè'ě",
@@ -26,5 +32,6 @@
 "junk_soda" : "nchá vìxì",
 "food_yam" : "ña'mì",
 "food_default" : "kuì'ǐ",
-"game_story" : "Iin kìǐ nìkùun-tà sàvǐ, \n káchì-nà ñàà ntàkòo kòǒ ntuchǎ cha nìyà'a tàchǐ xèěn, \n cha kuà'ǎ-tà ñà'a ntàni'ì nchísì kuà'ìn. \n Cha nìkìtsáá kóyo kue ñà'a-ka ra vichi ñà chuun kú sǎ'ú kúu-ñà tsíní ñú'u tíún ñà katsǔ. \n Cha ratù ñà và'a ná ki'ún katsǔ ra ¡koo ncheú! \n ¡Cha ratù ná tíún ñà vǎ'a katsǔ ra ki'in kuè'è yô ra kǔu!"
+"game_story" : "Iin kìǐ nìkùun-tà sàvǐ, \n káchì-nà ñàà ntàkòo kòǒ ntuchǎ cha nìyà'a tàchǐ xèěn, \n cha kuà'ǎ-tà ñà'a ntàni'ì nchísì kuà'ìn. \n Cha nìkìtsáá kóyo kue ñà'a-ka ra vichi ñà chuun kú sǎ'ú kúu-ñà tsíní ñú'u tíún ñà katsǔ. \n Cha ratù ñà và'a ná ki'ún katsǔ ra ¡koo ncheú! \n ¡Cha ratù ná tíún ñà vǎ'a katsǔ ra ki'in kuè'è yô ra kǔu!",
+ "game_end" : "¡Atrapaste toda la comida que necesitabas! ¡Felicidades!"
 }
