@@ -4,7 +4,7 @@
 "menu_new-game" : "Uenani",
 "menu_continue" : "Jimini ja",
 "menu_quit" : "Jierani",
-"menu_language" : "Elige la lengua",
+"menu_language" : "Erakuntsi ma uandakua",
 "lg_english" : "English",
 "lg_spanish" : "Español",
 "lg_yucunani" : "Sà'án Sàvǐ ñà Yukúnanǐ",
@@ -33,5 +33,5 @@
 "food_yam" : "uarhashi",
 "food_default" : "anhejchakua",
 "game_story" : "Ma jurhieta kanikua janishpti, \n uandanhshindi eshka tarharashpti akuitsi janikua ka nitamashpti k’eri tarhieta uinhapiti, \n ka mamaru ambe manatashpti ka tarhatashpti. \n Ka ishi undashpti uekorhintani. \n Iashi chi anchikurhikua jindesti jupikani t’iriekua. \n Engari jupikashka t’iriekua ambakiti, \n ¡kanikuari uinhapintaka! \n Ka engari jupikashka t’iriekua no ambakiti, \n ¡p’amenchantakari ka uarhini ambe!",
-"game_end" : "¡Atrapaste toda la comida que necesitabas! ¡Felicidades!"
+"game_end" : "¡Jupikashkari iamu t'iriekua engari uetarhinchajka! ¡Kanikua tsipikua!"
 }
