@@ -31,6 +31,10 @@ if _select {
 				case 2: // quit
 					game_end();
 				break;
+				
+				case 3: // credits
+					room_goto(rm_credits);
+				break;
 			}
 			
 		case 1: // language submenu

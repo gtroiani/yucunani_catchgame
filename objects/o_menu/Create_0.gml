@@ -6,6 +6,7 @@
 menu[0,0] = localize("menu_new-game");
 menu[0,1] = localize("menu_language");
 menu[0,2] = localize("menu_quit");
+menu[0,3] = "Credits";
 
 // submenu
 menu[1,0] = localize("lg_english");
