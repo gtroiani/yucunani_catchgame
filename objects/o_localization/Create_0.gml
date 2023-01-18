@@ -57,7 +57,7 @@ while (locale_file_name != "")  // load all dictionaries that are titled
 	
 	// get the locale code from the content of the JSON (turned to map)
 	// convention for this project: locale code is first element in dictionary
-	global.two_letters = locale_map[? "locale_code"]; // this variable supports the sound localization
+	global.two_letters = locale_map[? "locale_code"];
 	var locale_code = locale_map[? "locale_code"];
 	ds_map_add(global.locale_map, locale_code, locale_map);
 

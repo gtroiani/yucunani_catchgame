@@ -2,14 +2,19 @@
 ///	Author: Giorgia Troiani
 ///	Last updated: 12 - 11 - 2020
 
-menu_x = x;
-menu_y = y;
-button_h = 32;
+// main menu
+menu[0,0] = localize("menu_new-game");
+menu[0,1] = localize("menu_language");
+menu[0,2] = localize("menu_quit");
 
-button[0] = localize("menu_new-game");
-button[1] = localize("menu_continue");
-button[2] = localize("menu_quit");
-buttons = array_length(button);
+// submenu
+menu[1,0] = localize("lg_english");
+menu[1,1] = localize("lg_spanish");
+menu[1,2] = localize("lg_yucunani");
+menu[1,3] = localize("lg_purhepecha");
+menu[1,4] = localize("lg_bquechua");
+menu[1,5] = "Back";
 
-menu_index = 0;
-last_selected = 0;
+
+index    = 0;  // menu index position
+sub_menu = 0;  // submenu index position

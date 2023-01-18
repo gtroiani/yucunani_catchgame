@@ -54,6 +54,7 @@
     {"id":{"name":"t_platform","path":"tilesets/t_platform/t_platform.yy",},"order":0,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":2,},
     {"id":{"name":"s_tortillas","path":"sprites/s_tortillas/s_tortillas.yy",},"order":8,},
+    {"id":{"name":"Script6","path":"scripts/Script6/Script6.yy",},"order":14,},
     {"id":{"name":"localize_sound","path":"scripts/localize_sound/localize_sound.yy",},"order":4,},
     {"id":{"name":"snd_grano","path":"sounds/snd_grano/snd_grano.yy",},"order":4,},
     {"id":{"name":"o_word","path":"objects/o_word/o_word.yy",},"order":4,},
@@ -123,7 +124,7 @@
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_es.json","CopyToMask":-1,"filePath":"datafiles",},
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_en.json","CopyToMask":153157610357391598,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_en.json","CopyToMask":153122391625564398,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_mx.json","CopyToMask":153157610357391598,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"locale_pu.json","CopyToMask":-1,"filePath":"datafiles",},
   ],
